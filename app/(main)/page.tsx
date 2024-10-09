@@ -1,7 +1,7 @@
 import Navigation from "../../components/navigation"
 import Link from "next/link"
 import Image from "next/image"
-import Logo from '/public/Andong.png'
+import Logo from '/public/ANDONG.png'
 const URL = 'https://dummyjson.com/products/'
 
 async function getItems(){
